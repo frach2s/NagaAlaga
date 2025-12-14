@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Project_files\\NagaAlaga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|c:\\users\\franc\\project_files\\nagaalaga\\nagaalaga.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|solutionrelative:nagaalaga.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|c:\\users\\franc\\project_files\\nagaalaga\\nagaalaga.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|solutionrelative:nagaalaga.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|c:\\users\\franc\\project_files\\nagaalaga\\nagaalaga.web\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|solutionrelative:nagaalaga.web\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|c:\\users\\franc\\project_files\\nagaalaga\\nagaalaga.web\\tailwind.extension.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{260CA73E-AD70-835F-8C82-30FE657FE7F9}|NagaAlaga.web\\NagaAlaga.web.csproj|solutionrelative:nagaalaga.web\\tailwind.extension.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "NagaAlaga.web\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\Pages\\Home.razor",
+              "RelativeToolTip": "NagaAlaga.web\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T09:56:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\tailwind.css",
+              "RelativeDocumentMoniker": "NagaAlaga.web\\tailwind.css",
+              "ToolTip": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\tailwind.css",
+              "RelativeToolTip": "NagaAlaga.web\\tailwind.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T09:53:49.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "NagaAlaga.web\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "NagaAlaga.web\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T09:53:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tailwind.extension.json",
+              "DocumentMoniker": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\tailwind.extension.json",
+              "RelativeDocumentMoniker": "NagaAlaga.web\\tailwind.extension.json",
+              "ToolTip": "C:\\Users\\franc\\Project_files\\NagaAlaga\\NagaAlaga.web\\tailwind.extension.json",
+              "RelativeToolTip": "NagaAlaga.web\\tailwind.extension.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T09:51:14.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
